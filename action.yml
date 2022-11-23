@@ -1,4 +1,4 @@
-name: 'Katalon Studio'
+name: 'Linh To Testing'
 description: 'Execute Katalon Studio projects'
 inputs:
       version:
